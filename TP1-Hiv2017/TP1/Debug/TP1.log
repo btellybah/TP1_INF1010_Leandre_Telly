@@ -1,0 +1,10 @@
+﻿  Specialite.cpp
+  Personnel.cpp
+c:\users\léandre\documents\visual studio 2015\projects\tp1-hiv2017\tp1\personnel.cpp(24): error C2511: 'void Personnel::ajouterMedecin(Medecin &)' : impossible de trouver la fonction membre surchargée dans 'Personnel'
+  c:\users\léandre\documents\visual studio 2015\projects\tp1-hiv2017\tp1\personnel.h(19): note: voir la déclaration de 'Personnel'
+c:\users\léandre\documents\visual studio 2015\projects\tp1-hiv2017\tp1\personnel.cpp(29): error C2511: 'void Personnel::ajouterInfirmier(Infirmier &)' : impossible de trouver la fonction membre surchargée dans 'Personnel'
+  c:\users\léandre\documents\visual studio 2015\projects\tp1-hiv2017\tp1\personnel.h(19): note: voir la déclaration de 'Personnel'
+  Medecin.cpp
+  Main.cpp
+  Infirmier.cpp
+  Génération de code en cours...
